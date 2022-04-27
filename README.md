@@ -7,3 +7,4 @@
 ## For reading potentiometer through phidget_22 
 - Download the phidget ROS package (http://wiki.ros.org/phidgets)
 - Download and copy the my potentiometer reading code in *phidgets_drivers/phidgets_ik/src*
+- For cpp files required changes are to be made in the cmakelist and the package.xml files.
